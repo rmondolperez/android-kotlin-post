@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_post_title">Posts</string>
+    <string name="fragment_comment_title">Comentarios</string>
+    <string name="no_information">No se ha obtenido información...</string>
+    <string name="fragment_contact_title">Contactos</string>
+</resources>

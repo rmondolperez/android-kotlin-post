@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/postFragment2"
+        android:title="@string/fragment_post_title"
+        android:icon="@drawable/ic_posts_list"
+        />
+
+    <item android:id="@+id/contactFragment2"
+        android:title="@string/fragment_contact_title"
+        android:icon="@drawable/ic_contact_phone"/>
+
+</menu>
